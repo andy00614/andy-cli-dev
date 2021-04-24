@@ -1,6 +1,6 @@
 {
   "name": "@andy-cli-dev/core",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "> TODO: description",
   "author": "andy <zhangandi@360.cn>",
   "homepage": "",
@@ -18,8 +18,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "dependencies": {
   },
   "gitHead": "98e2683c741da7253b7e6763d8c77ed4d812af7b"
 }
