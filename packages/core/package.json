@@ -20,7 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@andy-cli-dev/utils": "^0.0.2"
   },
-  "gitHead": "d941ce5ff94fa608c9ba75d1714c231bdfc71a45"
+  "gitHead": "98e2683c741da7253b7e6763d8c77ed4d812af7b"
 }
