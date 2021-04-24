@@ -1,6 +1,6 @@
 {
   "name": "@andy-cli-dev/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "andy <zhangandi@360.cn>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@andy-cli-dev/utils": "^0.0.1"
+    "@andy-cli-dev/utils": "^0.0.2"
   }
 }
