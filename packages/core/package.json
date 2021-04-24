@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@andy-cli-dev/utils": "^0.0.2"
-  }
+  },
+  "gitHead": "fd1ea5d05bc58d058267af5407d95dec654365a5"
 }
